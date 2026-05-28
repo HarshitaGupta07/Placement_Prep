@@ -1,0 +1,10 @@
+streamlit
+numpy
+PyPDF2
+SpeechRecognition
+python-dotenv
+google-generativeai
+pyttsx3
+opencv-python-headless
+mediapipe
+protobuf==3.20.3

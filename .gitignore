@@ -1,0 +1,9 @@
+# Environment variables (API Keys, Mongo URI)
+.env
+
+# Virtual Environment (jo humne pichli baar venv banaya tha)
+venv/
+__pycache__/
+
+# Agar Node.js ka koi part hai project mein toh isko bhi add karna
+node_modules/
